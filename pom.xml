@@ -30,8 +30,8 @@
 					<configuration>
 
 						<suiteXmlFiles>
-							<!-- <suiteXmlFile>testng_DDT.xml</suiteXmlFile> -->
-							<suiteXmlFile>testng_crossbrowserTest.xml</suiteXmlFile> 
+							<suiteXmlFile>testng_DDT.xml</suiteXmlFile>
+							<!-- <suiteXmlFile>testng_crossbrowserTest.xml</suiteXmlFile> --> 
 							<!-- <suiteXmlFile>testng_crossbrowserTest_parallel.xml</suiteXmlFile> -->
 							<!-- <suiteXmlFile>testng_mobile.xml</suiteXmlFile> -->
 
