@@ -11,6 +11,13 @@
 		</classes>
 	</test>
 
+	<test name="EdgeTest">
+
+		<parameter name="ibm_browser" value="edge"></parameter>
+		<classes>
+			<class name="nopComm.LoginTest" />
+		</classes>
+	</test>
 
 
 
